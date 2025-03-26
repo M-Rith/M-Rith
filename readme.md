@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you everyone.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice I'm <a href="https://huotmonirith.vercel.app/">Monirith</a>.</h1>
 
 <p>Welcome to my Repository! </br> I'm Huot Monirith, Mobile / FrontEnd developer from <img
   src="https://flagcdn.com/16x12/kh.png" srcset="https://flagcdn.com/32x24/kh.png 2x, https://flagcdn.com/48x36/kh.png 3x"height="14"
@@ -13,11 +13,24 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /></p>
-
-<h4>Connect with me on</h4>
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 <p>
-  <a href="https://www.linkedin.com/in/monirith-huot-0000000000000000000000000000000000000000/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
+<hr>
+<h3>⚡️ A Few Quick Facts </h3>
+
+<hr
+>
+<h3>Connect with me on</h3>
+<p>
+  <a href="https://www.linkedin.com/in/huot-monirith/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/M-Rith" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/AppleD0G" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
+  </a>
+  <a href="https://t.me/AppleD0G" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:hmonirith@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 
 </p>
