@@ -20,7 +20,6 @@
 <h3>⚡️ A Few Quick Facts </h3>
 <p>Hello world<p>
 
-
 <hr
 >
 <h3>Connect with me on</h3>
@@ -35,4 +34,12 @@
   </a>
   <a href="mailto:hmonirith@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 
+</p>
+
+<hr>
+
+<h3>Personal Website</h3>
+<p>
+  <a href="https://huotmonirith.vercel.app/" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
