@@ -26,6 +26,7 @@
 
 <hr>
 <h3>⚡️ A Few Quick Facts </h3>
+<h4>Self study Japan</h4>
 <h4> I'm Introvert guys </h4>
 <h4> I'm currently learning Vim Motion </h4>
 <hr
