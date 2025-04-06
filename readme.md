@@ -19,7 +19,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=M-Rith&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Rith&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=nightowl&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=M-Rith&theme=nightowl&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
@@ -30,6 +30,7 @@
 <h4> I'm Introvert guys </h4>
 <h4> I'm currently learning Vim Motion </h4>
 <h4> I'm self study IOS development </h4>
+<h4>I am coding this using nvim </h4>
 <hr
 >
 <h3>Connect with me on</h3>
