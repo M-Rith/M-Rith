@@ -30,6 +30,7 @@
 <h4> I'm Introvert guys </h4>
 <h4> I'm currently learning Vim Motion </h4>
 <h4> I'm self study IOS development </h4>
+<h4>I am coding this using nvim </h4>
 <hr
 >
 <h3>Connect with me on</h3>
