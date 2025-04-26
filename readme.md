@@ -17,12 +17,13 @@
 <p>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=M-Rith&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Rith&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=M-Rith&theme=nightowl&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=m-rith&show_icons=true&count_private=true&theme=tokyo-night&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rith&layout=compact&hide_border=true&theme=tokyo-night&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=pacman-ai">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=m-rith&theme=tokyo-night&hide_border=true&background=ffffff00">
   <br>
   <br>
 </p>
+
 
 <hr>
 <h3>⚡️ A Few Quick Facts </h3>
