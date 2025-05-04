@@ -24,14 +24,14 @@
   <br>
 </p>
 
-
 <hr>
 <h3>⚡️ A Few Quick Facts </h3>
-<h4>Self study Japan</h4>
-<h4> I'm Introvert guys </h4>
-<h4> I'm currently learning Vim Motion </h4>
-<h4> I'm self study IOS development </h4>
-<h4>I am coding this using nvim </h4>
+
+<h4>🇯🇵 I'm self-studying Japanese</h4>
+<h4>📱 I'm self-studying iOS development</h4>
+<h4>🌐 I enjoy building cool stuff for mobile and web</h4>
+<h4>📙 Check out my <a href="https://huotmonirith.vercel.app/">Personal Website</a></h4>
+
 <hr
 >
 <h3>Connect with me on</h3>
