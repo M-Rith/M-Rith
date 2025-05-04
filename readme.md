@@ -16,6 +16,8 @@
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 <p>
 
+<h3>Github Stats</h3>
+
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=m-rith&show_icons=true&count_private=true&theme=tokyo-night&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rith&layout=compact&hide_border=true&theme=tokyo-night&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=pacman-ai">
@@ -27,11 +29,11 @@
 <hr>
 <h3>⚡️ A Few Quick Facts </h3>
 <div style="padding-left: 15px;">
-  <li style="padding-bottom: 10px;">🇯🇵 I'm self-studying Japanese</li>
-  <li style="padding-bottom: 10px;">📱 I'm self-studying iOS development</li>
-  <li style="padding-bottom: 10px;">🌐 I enjoy building cool stuff for mobile and web</li>
-  <li style="padding-bottom: 10px;">📙 Check out my <a href="https://huotmonirith.vercel.app/">Personal Website</a></li>
-  <li style="padding-bottom: 10px;">📅 GCD method is my favorite</li>
+  <h4 style="padding-bottom: 10px;">🇯🇵 I'm self-studying Japanese</h4>
+  <h4 style="padding-bottom: 10px;">📱 I'm self-studying iOS development</h4>
+  <h4 style="padding-bottom: 10px;">🌐 I enjoy building cool stuff for mobile and web</h4>
+  <h4 style="padding-bottom: 10px;">📙 Check out my <a href="https://huotmonirith.vercel.app/">Personal Website</a></h4>
+  <h4 style="padding-bottom: 10px;">📅 GCD method is my favorite</h4>
 </div>
 
 <hr
