@@ -29,11 +29,11 @@
 <hr>
 <h3>⚡️ A Few Quick Facts </h3>
 <div style="padding-left: 15px;">
-  <li style="padding-bottom: 10px;">🇯🇵 I'm self-studying Japanese</li>
-  <li style="padding-bottom: 10px;">📱 I'm self-studying iOS development</li>
-  <li style="padding-bottom: 10px;">🌐 I enjoy building cool stuff for mobile and web</li>
-  <li style="padding-bottom: 10px;">📙 Check out my <a href="https://huotmonirith.vercel.app/">Personal Website</a></li>
-  <li style="padding-bottom: 10px;">📅 GCD method is my favorite</li>
+  <h4 style="padding-bottom: 10px;">🇯🇵 I'm self-studying Japanese</h4>
+  <h4 style="padding-bottom: 10px;">📱 I'm self-studying iOS development</h4>
+  <h4 style="padding-bottom: 10px;">🌐 I enjoy building cool stuff for mobile and web</h4>
+  <h4 style="padding-bottom: 10px;">📙 Check out my <a href="https://huotmonirith.vercel.app/">Personal Website</a></h4>
+  <h4 style="padding-bottom: 10px;">📅 GCD method is my favorite</h4>
 </div>
 
 <hr
